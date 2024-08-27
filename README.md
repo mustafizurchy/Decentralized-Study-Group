@@ -1,6 +1,6 @@
 # Decentralized Study Group DAO
 ![image](https://github.com/user-attachments/assets/34555bda-2c45-4fed-ad39-a35f8a4ac886)   
-![image](https://github.com/user-attachments/assets/06cb702a-be5d-4617-9a13-a4c7b2c43d08)
+
 
 
 
