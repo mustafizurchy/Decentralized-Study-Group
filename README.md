@@ -64,7 +64,7 @@ The Decentralized Study Group DAO aims to revolutionize the way students collabo
 **Project Lead:** [Mustafizur Rahman Choudhury]  
 **Email:** [cmustafizur5@gmail.com]  
 **LinkedIn:** [https://www.linkedin.com/in/mustafizur-rahman-choudhury-10a8b52a3]  
-**GitHub:** [Your GitHub Profile](https://github.com/mustafizurchy]
+**GitHub:** [https://github.com/mustafizurchy]
 
 ## Getting Started
 1. **Clone the Repository:**  
