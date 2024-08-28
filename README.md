@@ -68,7 +68,7 @@ The Decentralized Study Group DAO aims to revolutionize the way students collabo
 
 ## Getting Started
 1. **Clone the Repository:**  
-   `git clone https://github.com/yourusername/study-group-dao.git`
+   `git clone https://github.com/mustafizurchy/study-group-dao.git`
 2. **Install Dependencies:**  
    `npm install`
 3. **Deploy the Contract:**  
