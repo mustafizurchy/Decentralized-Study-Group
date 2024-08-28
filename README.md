@@ -79,4 +79,5 @@ The Decentralized Study Group DAO aims to revolutionize the way students collabo
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+This project is open for collaboration and feedback. Feel free to reach out for contributions or to share your thoughts!
 ---
